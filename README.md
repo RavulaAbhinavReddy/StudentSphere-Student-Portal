@@ -80,9 +80,6 @@ One of the standout features is the ability to:
 ## 🧑‍💻 Contributors
 
 - 👨‍💻 Abhinav Reddy  
-- 👩‍💻 Chandana (System Setup & Integration)
-
----
 
 ## 📌 License
 
